@@ -1,0 +1,77 @@
+/* 
+.intro{
+
+  height: 800px;
+   background-size: cover; 
+   background-position: center;
+  background-repeat: no-repeat;
+  width: 100%; position: relative;
+}
+.navbar-brand{
+  color: black; margin-right: 200px; font-weight: bold; font-size: 40px; margin-left: 300px;
+}
+.navbar-brand:hover{
+  color: #3db36b;
+}
+.navbar{background-color: rgb(254, 254, 254); 
+   margin-bottom: 20px; height: 80px;
+}
+.nav-link{
+  color: black; font-family: 'Times New Roman', Times, serif; margin-left: 20px; font-weight: bolder; font-size: smaller;
+}.txt{
+  position: absolute;
+ left: 35%; height: 450px; text-align: center;
+ 
+}
+.txt h1 {
+  font-weight: bold;
+font-size: 50px;}
+.txt h5{
+ color: coral;
+}
+.card-img-top{
+  height: 400px;width: 400px;
+}
+.card{
+  margin-top: 250px;
+}
+.btn{
+  background-color: rgb(255, 254, 254); color: coral; border: 1px solid coral; border-radius: 40%;
+}
+.card-body h5{
+  border: 1px solid rgb(253, 252, 252); color: coral; margin-left: 50px;margin-top: -35px; 
+  background-color: white; margin-bottom: 30px; padding: 20px;
+} */
+/* .nav-link:hover{
+  color: #3db36b;
+  border-bottom: 1px solid #3db36b;
+}
+.buy{
+  border: 1px solid #3db36b; color: #3db36b;
+}
+.buy:hover{
+  background-color: #3db36b ; color: aliceblue;
+}
+.txt{
+  position: absolute;
+  top:30%; left: 35%; height: 450px; 
+  width: 680px; text-align: center; border: 1px solid white; background-color: white; opacity: 0.7;
+}
+.txt h1 {
+  margin-top: 10%; font-weight: bold;
+font-size: 70px;}
+.txt p{
+  font-size: 20px; margin-left: 40px;
+}
+.btmm{
+  border: 1px solid #3db36b; padding: 20px; background-color: #3db36b; color: white; opacity:1 ; line-height: 1;
+}
+.btmm:hover{
+  background-color: #246f41;
+} */
+.card{
+  height: 600px; margin-top: 10px; 
+}
+.card img{
+  height: 400px;
+}
